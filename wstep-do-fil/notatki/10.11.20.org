@@ -1,0 +1,103 @@
+#+TITLE: 10.11.20
+
+Podział nauk
+* realne
+** biorą za obiekt badań fragment empirycznej rzeczuwysitości
+*** przyrodnicze
+*** kulturowe
+**** humanistyczne -  dotyczą człowieka
+**** kulturowe - dotyczą bytów społecznych
+** metody:
+*** obserwacja - obserwacja i opis obiektu
+*** eksperyment - prowokacja danych warunków (założeń tezy)
+*** matematyzacja zjawisk
+
+* formalne
+** za przedmiot mają abstrakcje bądź struktury abstrakcyje
+** sprowadzaja jakości do liczb
+*** matematyka
+*** logika formalna
+
+
+
+* cechy filozofi
+** filozofia - całościowa, głęboka, wykracza poza to co empiryczne.
+
+
+* Język filozoficzny
+** działy filozofii
+*** metafizyka
+- nauka o bycie, filozofia rzeczywistości
+*** ontologia
+- czasami używana jako ontologia (czasami, z powodów światopogladowych, kulturowwych bądż religijnych używana zamiennie z meafizyka).
+**** co istnieje,
+**** jaka jest istota tego co istnieje
+**** jak powstał świat
+**** czy to co istnieje się zmienia
+**** co porządkuje rzeczywistość
+**** pytania o naturę czasu i przestrzenii
+**** przyroda bóg człowieka
+***** filozofia człowieka
+- antropologia filozoficzna
+**** pojęcia ontologiczne
+***** Wrzechświat, Kosmos, Byt, Rzeczywistość
+***** dziedzina rzeczywistosci np. życie społeczne
+***** rzeczywistośc
+- to co istnieje obiektywnie (w przeciwieństwie do tego o istnieje wtórnie)
+***** synonim realności
+***** przedmiot
+****** coś, cokolwiek - w gramatyce rzeczowniki i przymiotniki
+****** przedmiot może mieć własności
+****** przedmiot może być fikcyjny lub istniejacy
+****** przedmioty istniejące
++ faktyczne
++ możliwe
+- przypadkowe
+- konieczne
+******* abstrakcyjne
+******* ?
+***** byt
+- Byt - synonim Wrzechświata
+- byt - coś co istnieje
+
+***** rzecz
+- odnosi się do jednego z rodzajów przedmiotów, byt konkretny jednostkowy (np _mój laptop_)
+***** substancja
+- byt konkretny jedntoskowy, coś czemu byt pzrysługuje z istoty
+- natura istota danej rzeczy ( a może  bytu)
+***** cecha
+- własności,
+- byty niesamoistne - nie mogą istniec bez rzeczy do których sie odnoszą
+- istnienie nie jest cechą bytu
+- cechy atrybutywne - istotne, konieczne (np. u psa miłosc do człowieka)
+- cechy akcydensowych - nieistotnych, niekonieczne (np. u psa barwa sierści)
+***** jest
+- stosunek tożsamości, identycznosci - coś jest sobą
+- stosunek inkluzji, zaliczanie czegoś to rodzaju, przynależność (czerń jest kolorem)
+- stosunek subsumpcji, inkluzji - zawieranie sie zbioru w zbiorze
+- jest egzystencjalne, stwierdzenie bycia czegoś
+- przypisanie pewnej właśności do rzeczy (np reksio jest psem)
+***** różnica pomiędzy istotą a istnieniem
+****** istota
+- lac. esentia
+- to, dzieki czemu coś jest sobą
+- istota indywidualna :: przypisanie cech danej rzeczy
+- istota generalna :: przypisanie do rodzaju, gatunku
+****** istnienie
+- lac. esse - bycie, egzystencja
+**** konflikt o tworzywo świata
+***** Monizm
+- genetyczny, aktualny
+****** wersja skrajna
+- wszystko wzieło się z jednego tworzywa, wszystko jest jednym tworzywem
+****** wersja umiarkowana
+- wszytskow wzieło się z jednego tworzywa, wszystko jest złożone z wielu tworzyw
+  # do uzupełnienia
+***** Dualizm
+- materia, duch
+  # dziewczyna która była królem - film o Kartezjuszu
+****** wersja umiarkowana
+-
+****** wersja skrajna
+- Kartezjusz
+  - 2 substancje duch i materia, nie dzialają na siebie, tylko w przypadku człowieka duch i materia współistnieją
