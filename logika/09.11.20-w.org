@@ -1,0 +1,41 @@
+#+TITLE: 09 11 20 W
+
+* Logika
+- logika - zasada jasnego, poprawnego wyrażania myśli
+
+- psychologizm w logice -
+
+
+- czynnosc i wytwór
+
+- wg antypsychologistów logika zajmuje się obiektywnymi relacjami między wypowiedziami
+
+- logika zajmuje sie tym, jak powinno sie myślec i wyrażac te mysli
+
+** dziedziny logiki
+- semiotyka - nauka o języku, traktuje język jako środek formułowania i wyrażania myśli
+	- semantyka
+	- pragmatyka
+	- syntakstyka (synonimicznośc)
+- logika formalna - prawa logiki formalnej nie sa wyprowadzane z jezyka potocznego
+- metodologia nauk
+- teoria argumentacji- jej przedmiotem sa dyskursywne srodki przekonywania
+
+
+
+
+
+* rodzaje logiki
+- logika dialogowa - dialog proponenta i oponenta
+- logika modalna - funktory modalne dotyczą konieczności
+- logika dwuwartościowa
+- logiki wielowartościowe
+- logika matematyczna - pierwsze 30 lat 20 w.
+
+- metoda empiryczna (aposteriorycznym)- na podstawie doswiadczenia
+- metoda dedukcyjna (aprioryczne) -
+
+* Arystoteles
+- wnioskowanie bezpośrednie
+- wnioskowanie pośrednie (sylogizm)
+- elementy logiki modalnej

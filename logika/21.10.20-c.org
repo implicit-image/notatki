@@ -2,10 +2,34 @@
 + logika dwuwartościowa
 + wartość logiczna zdania jest obiektywna
 
-* zdania analityczne :: zdanie prawdziwe na mocy swej struktury i znaczenia występujacych w nim wyrażeń
+* zdania analityczne
+- zdanie prawdziwe na mocy swej struktury i znaczenia występujacych w nim wyrażeń
 - o prawdziwości tego zdania przesądza sam sens u zytych w nim słów
-* zdania kontradyktoryczne :: zdania fałszywe na mocy swej struktury i sensu wytępujacych w nim wyrażeń
-* zdania syntetyczne :: zdanie, którego stwierdzenie prawdziwości lub fałszywosci wymaga kontajtu z rzeczywistoscią
+* zdania kontradyktoryczne
+- zdania fałszywe na mocy swej struktury i sensu wytępujacych w nim wyrażeń
+* zdania syntetyczne
+- zdanie, którego stwierdzenie prawdziwości lub fałszywosci wymaga kontajtu z rzeczywistoscią
 
 wypowiedż zdaniowa niezupełna pełni funkcję zdania logicznego
 o ile słuchacz zdaje sobie sprawę z domyślnych uzupełnień wypowiedzi pominiętych przez mówiącego
+KRZ := klasyczny rachunek zdań
+
+elementarną jednostką w KRZ jest całe zdanie
+
+zdanie w KRZ := zdanie oznajmujące, opisujące rzeczywistość
+
+* zdania które nie są zdaniami w KRZ:
+- zdania wartościujące
+- zdania normatywne
+- zdania nieprecyzyjne
+- pytajniki i wykrzyknienia
+
+
+O prawdziwosci lub fałszywości zdania mówimy wtedy i tylko wtedy gdy jes zgodne lub niezgodne z rzeczywstoscią.
+
+
+symbolami zdań prostych są zmienne zdaniowe: p, q, r ...
+
+Zmienne zdaniowe sa połączone spójnikami logicznymi(stałymi logicznymi).
+
+Stałe logiczne są stałe(!sic).

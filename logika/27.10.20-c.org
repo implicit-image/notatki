@@ -1,0 +1,84 @@
+#+TITLE: 27 10 20 C
+
+*  alternatywa łączna
+wypiję na przyjęciu wino lub piwo
+zbiór potencjlnie wypitych napojów:
+	{wino, piwo, wino i piwo}
+
+* alternatywa rozłączna
+dokładnie jedno z dwojga
+wypiję na przyjęciu wino albo piwo
+zbiór potencjalnie wypitych napojów:
+	{wino, piwo}
+
+* dysjunkcja
+co najwyżej jedno z dwojga
+wypiję na przyjęciu wino bądź piwo
+zbiór potencjalnie wypitych napojów:
+{wino, piwo, żaden}
+
+* koniunkcja
+
+leon czyści rower i obmyśla plan zemsty
+zdanie 1 (p) - leon czyści rower
+zdanie 2 (q) - *leon* obmyśla plan zemsty
+^ - i
+
+i lecz oraz choć
+
+p, q - czynniki koniunkcji
+
+
+p ^ q - koniunkcja (czytamy "p i q")
+
+* dysjunkcja
+
+p, q - człony alterntywy
+p v q - dysjunkcja (czytamy "p albo q")
+
+* implikacja
+jeżeli leon czyści rower, to obmyśla plan zemsty
+
+zdanie 1 (p) - leon czyści rower
+zdanie 2 (q) - *leon* obmyśla plan zemsty
+implikacja (→) - jeżeli .. to
+
+p - poprzednik implikacji
+q - następnik implikacji
+p → q (czytamy "p implikuje q")
+
+* równoważność
+leon czyści rower wtedy i tylko wtedy gdy obmyśla plan zemsty
+zdanie 1 (p) - leon czyści rower
+zdanie 2(q) - *leon* obmysla plan zemsty
+równoważność (↔) - wtedy i tylko wtedy (wtw)
+
+p, q strony równoważności
+p ↔ q - czytamy równoważność p i q
+
+* negacja
+
+~p → ~q
+***
+błędy:
+
+- 2 zmienne zdaniowe nieoddzielone stałą logiczną
+- nigdy nie mogą występować 2 stałe logiczne nieoddzielone zmienną zdaniową (nie dotyczy negacji)
+- negacja nie łączy dwóch zdań, lecz łączy się tylko z jednym
+
+***
+światło ma naturę korpuskularną zawsze i tylko wtedy gdy nieprawda że ma naturę falową
+
+zdanie 1 (p) - śwatło ma naturę korpuskulrną
+zdanie 2 (q) - *światło* ma naturę falową
+negacja - nieprawda że
+***
+jeżeli byłeś w paryżu to zwiedziłeś luwr i widziałeś wieżę Eiffel'a
+
+p → (q ^ r)
+***
+jeżeli historia tlumazcy zdarzenia minione i pozwala przewidywać przyszlość to jest nauką x
+
+
+***
+jeżeli mówisz nieprawde to mylisz sie lub kłamiesz
