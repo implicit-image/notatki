@@ -1,0 +1,53 @@
+#+TITLE: 21 10 20 W
+
+* Podział wg Arystotelesa ct.
+** fil. teoretyczna
+- metafizyka
+- fizyka
+- matematyka
+** fil. parktyczna :: gr. /prattein/, postępować, działać
+- etyka
+- polityka
+- ekonomia
+** fil. wytwórcza
+
+* kategorie filozofii:
+- ontologia, metafizyka - nauka o bycie
+- epistemologia - teoria poznania, nauka o wiedzy
+- logika - nauka o myśleniu jako takim(wg arystotelesa)
+- etyka - nauka o moralności(nauka o obyczajach)
+- estetyka - nauka o pięknie i twórczości
+- polityka - filozofia obywateli, państwa
+- antropologia - czym, jaki jest człowiek
+- aksjologia -
+
+* Tales z Miletu
+- urodził się ok. 605 r p.n.e.
+- pierwszy filozof wg dzisiejszych standardów
+- przez sobie współczesnych był nazywany **sofos** (mędrzec, erudyta, intelektualista)
+- uznany przez arystotelesa za pierwszego filozofa
+- zadawał sobie pytanie o **arche** - prazasadę
+- dla Talesa prazasadą była woda (lub wilogć wg innych tłumaczeń i interpretacji)
+* Anaksymander z Miletu
+- zmarł 547 r p.n.e.
+- uczeń Talesa
+- napisał traktat filozoficzny heksametrem ("Peri Physeos" - "o przyrodzie" nie zachowało się)
+- za **arche** uważał apeiron - bezkres
+* Anaksymenes z Miletu
+- ur 585/60 p.n.e., zmarł 526 p.n.e
+- uczeń Anaksymandra
+- przyroda jest nieskończona
+- **arche** jest powietrze
+- rozróżnia pomiędzy duszą i rozumem
+* Pitagoras
+- zmarł 497r p.n.e.
+- szkoła pitagorejska w miejscowości kroton
+- **arche** to liczba
+- wszystko, co nas otacza funkcjonuje wg określonego porządku
+- rozgraniczenie pomiędzy ciałem a duszą
+* Ksenofanes
+- pochodził z miejscowości kolofon
+- mieszkał w Elei
+- wyśmiewał religię, teologie grecką
+- napisał "Peri Physeos"
+- dla niego **arche** to jednia

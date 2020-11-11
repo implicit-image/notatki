@@ -21,8 +21,8 @@ Podział nauk
 
 
 * cechy filozofi
-** filozofia - całościowa, głęboka, wykracza poza to co empiryczne.
-
+** filozofia
+- całościowa, głęboka, wykracza poza to co empiryczne.
 
 * Język filozoficzny
 ** działy filozofii
@@ -30,12 +30,12 @@ Podział nauk
 - nauka o bycie, filozofia rzeczywistości
 *** ontologia
 - czasami używana jako ontologia (czasami, z powodów światopogladowych, kulturowwych bądż religijnych używana zamiennie z meafizyka).
-**** co istnieje,
-**** jaka jest istota tego co istnieje
-**** jak powstał świat
-**** czy to co istnieje się zmienia
-**** co porządkuje rzeczywistość
-**** pytania o naturę czasu i przestrzenii
+- co istnieje,
+-  jaka jest istota tego co istnieje
+- jak powstał świat
+- czy to co istnieje się zmienia
+- co porządkuje rzeczywistość
+- pytania o naturę czasu i przestrzenii
 **** przyroda bóg człowieka
 ***** filozofia człowieka
 - antropologia filozoficzna
