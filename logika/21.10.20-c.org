@@ -1,0 +1,15 @@
+#+TITLE: 21 10 20 C
++ logika dwuwartościowa
++ wartość logiczna zdania jest obiektywna
+
+* zdania analityczne
+- zdanie prawdziwe na mocy swej struktury i znaczenia występujacych w nim wyrażeń
+- o prawdziwości tego zdania przesądza sam sens u zytych w nim słów
+* zdania kontradyktoryczne
+- zdania fałszywe na mocy swej struktury i sensu wytępujacych w nim wyrażeń
+* zdania syntetyczne
+- zdanie, którego stwierdzenie prawdziwości lub fałszywosci wymaga kontajtu z rzeczywistoscią
+===
+wypowiedż zdaniowa niezupełna pełni funkcję zdania logicznego
+o ile słuchacz zdaje sobie sprawę z domyślnych uzupełnień wypowiedzi pominiętych przez mówiącego
+===
