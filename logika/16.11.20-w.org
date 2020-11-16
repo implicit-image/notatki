@@ -24,3 +24,40 @@
 - bool
 * Metoda założeniowa
 * Metoda aksjomatyczna
+* Desygnat
+- rzecz, do której odnosi się nazwa
+* Nazwy
+** Ze względu na złożoność
+*** Nazwa prosta
+- jeden wyraz
+*** Nazwa złożona
+- wiele wyrazów
+** Ze wzdględu na liczbę desygnatów
+*** Nazwy puste
+- w ich zakresie nie ma żadnych desygnatów (np )
+*** Nazwy jednostkowe
+- w ich zakresie jest jeden desygnat (np naturalny satelita ziemi)
+*** Nazwa ogólna
+- w ich zakresie jest wiele desygnatów (np stól, mieszkaniec olsztyna)
+** Ze względu na sposób odniesienia do desygnatu
+*** Nazwy generalne
+- ze względu na cechy, jakie przysługują rodzajowi desygnatom (np poeta)
+*** Nazwy indywidualne
+- arbitralnie odnosząca sie do danego desygnatu
+** Ze wględu na rodzaj desygnatu
+*** Nazwy konkretne
+- konkretne, instniejące rzeczy
+*** Nazwa abstrakcyjne
+- nazwy, których desygnatami są byty abstrakcyjne
+** Ze wględu na strukturę
+*** Nazwy zbiorowe
+*** Nazwy niezbiorowe
+- struktura obiektu nie jest łatwa do rozdzielenia
+** s
+*** Nazwy relatywne
+- wskazuje na relacje desygnatu z innym obiektem
+*** Nazwy niereltywne
+- nie wskazuje na relacje desygnatu
+** Brak
+*** Nazwy prywarywne
+*** Nazwy nieprywatywne
