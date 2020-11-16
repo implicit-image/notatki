@@ -1,0 +1,12 @@
+#+TITLE: Plan Prezentacji
+
+* Temat
++ How can using social networking sites invade your privacy
+  - Privacy, Anonimity - differences and contradictions
+    * Privacy
+      - leaks
+      - access settings
+    * Anonimity
+      - metadata
+      - connected accounts
+      - user's lack of knowledge

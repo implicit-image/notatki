@@ -18,6 +18,6 @@
 * okres rzymski
 - od 1 w n.e. do 6 w n.e.
 * podział filzofii wg Arystotelesa:
-** filozofia teoretyczna :: formułowanie wiedzy dla samej wiedzy
-** filozofia praktyczna :: formułowanie wiedzy dla osiąginęcia moralnej doskonałości
-** filozofia wytwórcza :: formułowanie wiedzy dla wytworzenia określonych przedmiotów
++ filozofia teoretyczna :: formułowanie wiedzy dla samej wiedzy
++ filozofia praktyczna :: formułowanie wiedzy dla osiąginęcia moralnej doskonałości
++ filozofia wytwórcza :: formułowanie wiedzy dla wytworzenia określonych przedmiotów

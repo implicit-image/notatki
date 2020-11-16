@@ -1,0 +1,26 @@
+#+TITLE: 16 11 20 W
+
+* Logika
+** logika scholastyczna
+*** starożytność
+- bóg
+- kwestia odnesienia - czy logika odnosi się do jakiejś rzeczywistości czy nie
+- platon
+  + świat idealny istnieje **naprawdę**
+- arystoteles
+  + wiedza ogólna nie ma **idealnych** odpowiedników
+*** średniowiecze
+- nominalizm i realizm
+- sermonizm - nasze odpowiedzi mają charakter ogólny, a myślenie szczególny
+**** devotio moderna
+- chłodne podejście do rzeczywistości religijnej
+*** nowożytność
+- nacisk na odkrycie, a nie uzasadnienie
+- psychologizm - locke, hume
+** symbole logiczne
+- leibnitz
+- universalis, calculus raciotinator
+** logika jako rachunek
+- bool
+* Metoda założeniowa
+* Metoda aksjomatyczna

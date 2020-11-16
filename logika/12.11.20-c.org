@@ -1,0 +1,20 @@
+#+TITLE: 12 11 20 C
+
+
+* zdania
+- nieprawda że jeżeli einstein był uczonym to churchil nie był politykiem
+  p - einstein był uczonym
+  q - churchil był politykiem
+  ~p → ~q
+
+- jeżeli logika jest nauką, to jeżeli dzialem fil jest teoria poznania to logika jest przydatna dla fil
+
+  Moskwa jest stolicą polski lub jeżeli moskwa nie jest stolica polski to berlin jest stolicą polski
+  p - moskwa jest stolicą polski
+  q -
+  piotr jest jarosze wtedy i tylko wtedy gdy nie jest filatelistą - 0
+  piotr jest jaroszem i filatelistą v piotr nie jest ani jaroszem ani filatelistą - ?
+
+  jeżeli zofia jest młoda i piekna to warszawa nie jest stolica polski - 1
+  jeżeli warszawa jest stolicą polski to zofia jest młoda - 1
+  jeżeli zofia jest piekna to zofia jest brzydka - ?
