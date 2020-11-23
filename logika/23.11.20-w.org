@@ -1,0 +1,76 @@
+#+TITLE: 23 11 20 W
+
+*** treśc nazwy kwadrat
+- 4 równe boki
+*** treść leksykalna
+- cechy: charakterystyczna, konstytutywna
+
+*** cechy kensekutywne
+
+*** ostrosć nazwy
+- wiemy do jakiego desygnatu możemy tę nazwę odniesć, wiemy do jakiego zakresu desygnaty należą bądź nie należą
+- w jęz pot np pies, dziecko
+*** wyrazistość nazwy
+- treść jest wyraźna kiedy wszystkie obiekty, do których nazwa się odnosi maja tę samą cechę
+- np obiekty matematyczne mają wyraziste nazwy
+
+- nazwy mają intuicyjne znaczenie jeżeli mozna wskazać ich desygnaty nie znając cech konstytutywnych
+
+*** jeżeli nazwa jest ostra i wyraźna, to jest terminem
+
+*** supozycje
+- naturalna - odnosi nazwę do wszystkich jej desygnatów np człowiek jest śmiertelny
+- przedmiotowa - odnosi się do jednego ze swoich desygnatów np widzę człowieka
+- materialna - nazwa odnosi sie do samej siebie, nazwy używamy w supozycji materialnej kiedy obiektem, do którego nazwa się odnosi jest słowo, nazwa sama w sobie
+- formalna (czasami wymieniana) -  w tym użyciu nazwa oznacza gatunek
+
+*** język 1 stopnia
+- język przedmiotowy
+*** język 2 stopnia
+- metajęzyk
+- język mówiący o języku (nazwy w supozycji materialnej)
+|-> liczba stopni języka jest potencjalnie nieskończona
+
+
+*** nazwy prywatywne
+- np
+*** nazwy nieprywatywne
+- np nieprzyjaciel
+
+*** relacje między zakresami nazw
+- zakres nazwy tworza desygnaty nazwy
+- zakres nazwy uniwersalnej
+**** zamienności
+- synonimiczność
+
+**** podrzedności
+- {zwierzę, pies} ; {przedmioty, laptop}
+
+**** sprzeczności
+- {pies, nie pies} ; {człowiek, nie człowiek}
+
+**** niezależności
+- {student, rowerzysta} ; {}
+
+**** przeciwieństwa
+- {zdania w krz, zdania normatywne}
+
+**** podprzeciwieństwa
+
+**** ?
+- {drzewo, nie sosna} ; {zwierzę, nie pies}
+
+
+*** Klasyczny rachunek nazw
+- związki pomiędzy zdaniami kategorycznymi
+- wnioskowania pośrednie i bezpośrednie (sylogizm)
+**** rodzaje zdań kategorycznych(orzekających)
+- S, P - zmienne nazwowe; a, e, i, o - funktor
+- S a P :: każde S jest P
+- S e P :: żadne S nie jest P
+- S i P :: niektóre S są P
+- S o P :: niektóre S nie są P
+- ogólnotwierdzące S a P
+- ogólnoprzeczące S e P
+- szczególnotwierdzące S i P
+- szczególnoprzeczące S o P

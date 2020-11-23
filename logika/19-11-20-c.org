@@ -1,0 +1,17 @@
+#+TITLE: 19 11 20 C
+
+* Tautologie
+- zdanie jest prawdziwe w sposób konieczny i niezawodny
+
+
+* Metody
+** Metoda wprost
+** Metoda zero-jedynkowa/nie-wprost
+1. zakładam, że zdanie jest fałszywe
+2. jeżeli nie napotkam sprzeczności, to jest fałszywe, czyli nie jest tautologią
+3. jeżeli napotkam sprzeczność to zdanie jest prawdziwe, czyli jest tautologią
+** przykład:
+a) (p→q)→[(~q^r)→(~p^r)]
+b) [(p→q)→q]→(p v ~r)
+c) (p^~q)→[(q→p)→p]
+d) (qv~p)→{p→[p→(q^r)]}
