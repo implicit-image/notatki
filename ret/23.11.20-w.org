@@ -1,0 +1,51 @@
+#+TITLE: 23 11 20 W
+
+*** argumentowanie przyczynowo skutkowe
+- określanie skutków na podstawie znanych przyczyn
+*** argumentowanie objawowe
+- na podstawie objawów okreslamy przyczynę
+
+*** argumentowanie przez analogię
+
+*** argumentowanie normatywne
+- powoływanie się na istniejące, wspólne z oponentem wartości
+
+*** argumentowanie skojarzeniowe/asocjacyjne/intuicyjne
+- c
+
+
+*** możliwości
+- teza jest prawdziwa
+- teza jest prawdopodobna
+- trudno okreslić wartość logiczną tezy
+- teza jest prawdopodobnie fałszywa
+- teza jest fałszywa
+
+
+
+
+
+*** argumentacja szeregowa
+- przesłanki razem prowadzą do wniosku: np sylogizm
+- poprawna, gdy wszystkie przesłanki są prawdziwe i wniosek wynika z przesłanek
+
+*** argumentacja równoległa
+- każda z przesłanek niezależnie wspiera konkluzję
+
+
+*** porządki argumentacyjne
+- wstępujący
+  + wystąpienie ułożone jest od najsłabszych argumentów do najmocniejszych
+- zstępujący
+  + wystąpienie ułożone jest od najmocniejszych argumentów do najsłabszych
+- liniowy
+  + odrzuca najsłabsze argumenty
+- nestoriański
+  + silne argumenty na początku i na końcu
+
+
+*** P.Grice - maksymy
+- maksyma jakości - mów prawdę
+- maksyma ilości - mów tyle, ile trzeba
+- maksyma stosunku - mów na temat
+- maksyma sposobu - mów zrozumiale
