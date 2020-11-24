@@ -1,0 +1,66 @@
+#+TITLE: 24 11 20 W
+
+* spór o sbosób istnienia świata
+** idealizm
+- istnienie swiata jest zależne od przerzyc podmiotu poznającego
+- świat jest zespołem przeżyć świadomym/ przeżyciem/ konstruktem intelektu
+*** idealizm subjektywny
+**** idealizm immanentny
+***** George Berkley
+- 17w
+- rzeczy fizyczne to zespoły wrażeń zmysłowych podmiotu poznjącego
+- wrażenia - spostrzeżenia zmysłowe
+- esse est percipi - istnieć to znaczy byc postrzeganym
+- zarzuty przeciwko Berkleyowi
+  + czy przedmioty przestają istnieć gdy przestajemy je postrzegać?
+    - nie, bo *bóg* jest bytem zawsze postrzegającym wszystko
+  + dlaczego ludzie maja podobne zespoły wrażeń?
+    - bo *bóg* zaszczepił nam zespoły wrażeń  w umyśle
+      (umysły jako sale kinowe)
+  + jak odróżnić jawę od snu?
+    - zespołu wrażeń na jawie mają ciągłość, a we śnie nie (przy czym sen to ogólne powiedzenie na stany zaburzenia świadomosci)
+  + prowadzi do /solipsyzmu/
+**** idealizm transcendentny
+***** Immanuel Kant (idealizm *transcendentalny*)
+- podmiotowy warunek istnienia przedmiotu
+- /a priori/ - przed-doświadczalne
+- nasz rozum jest wyposażony w formy aprioryczne
+- *okulary czasu i przestrzeni* (naoczność)
+- czas i przestrzeń to formy myslenia człowieka, nie ma ich poza człowiekiem
+- chaos bodźców → | naoczność | → | intelekt |
+- 12 kategorii intelektu
+- fenomen - to, co się jawi ludzkiej świadomości
+- noumen - rzecz sama w sobie, odbieramy od tego wrażenia, ale go nie doświadczamy
+- przedmiot poznania jest kostruktem umysłu z chaosu bodźców otrzymanych od noumen
+*** idealizm obiektywny
+- świat jest wytworem ducha obiektywnego/absulutnego
+- Fichte, Schelling, Hegel
+**** Platon
+- istnieje świat obiektywny nizależny od świadomości ludzkiej
+- w swej najgłębszej warstwie jest światem duchowym
+- tym, co realnie istnieje jest świat idei (1 idea człowieka, wielu ludzi)
+- 3 czynniki powstania świata:
+  + Demiurg
+  + idee - wieczna
+  + pramateria - zmienna
+**** Hegel
+- byt stanowi całość
+- byt jest zmienny
+- dialektyka - każda teza ma swoja  antytezę a obie tworzą syntezę
+- 1 postać bytu - pojęcie
+- jego antyteza - przyroda
+- synteza - duch
+  + teza duch subiektywny - indywidualne świadomosci
+  + antyteza duch obiektywny - prawo → państwo → moralnosć
+  + synteza duch absolutny sztuka → religia → filozofia
+
+** realizm
+- świat istnieje niezależnie od podmiotu poznającego
+*** realizm naiwny/potoczny/bezkrytyczny
+- świat istnieje niezależnie od podmiotu
+- dosłownie potoczny
+*** realizm krytyczny
+- realizm filozoficzny/naukowy
+**** Kartezjusz
+- /cogito ergo sum/ (/dubito ergo sum/)
+- zły demon (2+2=4?)
