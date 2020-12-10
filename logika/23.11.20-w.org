@@ -66,11 +66,7 @@
 - wnioskowania pośrednie i bezpośrednie (sylogizm)
 **** rodzaje zdań kategorycznych(orzekających)
 - S, P - zmienne nazwowe; a, e, i, o - funktor
-- S a P :: każde S jest P
-- S e P :: żadne S nie jest P
-- S i P :: niektóre S są P
-- S o P :: niektóre S nie są P
-- ogólnotwierdzące S a P
-- ogólnoprzeczące S e P
-- szczególnotwierdzące S i P
-- szczególnoprzeczące S o P
+- S a P :: każde S jest P - ogólnotwierdzące
+- S e P :: żadne S nie jest P - ogólnoprzeczące
+- S i P :: niektóre S są P - szczególnotwierdzące
+- S o P :: niektóre S nie są P - szczególnoprzeczące

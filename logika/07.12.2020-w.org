@@ -1,0 +1,29 @@
+#+TITLE: 07 12 2020
+
+
+* Sylogizmy
+  - M a P ^ S a M -> S a P
+** reguły pop
+   - przesłanka jest twierdząca, chyba że wniosek jest przeczący (wtedy przesłanka jest przecząca)
+   - wniosek jest + gdy obie przesłanki są +
+   - konkluzja idzie za przesłanką słabszą (szczegółowa i przecząca)
+   - konkluzja może byc ogólna jeżeli obie przesłanki są ogólne
+** określanie czy formmuła jest zdaniem logicznym
+   - metoda zero-jedynkowa ::
+     
+   - metoda załozeniowa
+
+   - metoda diagramowa
+     - diagramy Venna
+       - S o P
+         - [[/home/b/Documents/notatki/media/logika/07.12.20-1.png]]
+       - S a P
+	 - [[/home/b/Documents/notatki/media/logika/07.12.20-2.png]]
+       - S e P
+         - [[/home/b/Documents/notatki/media/logika/07.12.20-3.png]]
+       - S i P
+** Zastosowanie
+   - M a P ^ S a M -> S a P
+** Epiheremat - sylogizm w którym przesłanki
+
+* Rachunek kwantyfikatorów

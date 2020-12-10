@@ -1,0 +1,46 @@
+#+TITLE: 08 12 20
+
+
+* Dowody ontologiczne
+  
+*** Aureliusz Augustyn
+  - w umyśle każdego człowieka istnieje pojęcie prawdy
+  - musi istnieć twórca prawdy
+  - twórca prawdy musi być wieczny
+  - wieczny twórca prawy isntieje
+  - Bóg istnieje
+*** Anzelm z Cuntenbury
+  - wśród pojęć w umyśle ludzkim jest pojęcie Boga
+  - Bóg jest bytem najdoskonalszym (nie da się pomyśleć nic /większego/)
+  - kto jest twórcą pojęcia bytu najdoskonalszego w umyśle człowieka? - Bóg
+  - Bóg istnieje
+*** Kartezjusz
+  - cogito ergo sum
+    + efektem wiedzy zmysłowej jest wątpliwość
+    + wątpliwość to myśl
+    + musi istnieć podmiot myślący
+    + 'rzecz myśląca' - res cogitas istnieje
+    + wprowadza prawo przyrody - przyczyna musi być równa skutkowi
+    + skutek - pojęcie boga - przyczyna - Bóg
+    
+* Dowody kosmologiczne
+  - dowód aposteriori - po doświadczeniu
+*** Tomasz z Akwinu
+  - zakwestionował dowód ontologiczny
+    + jeżeli dowodzimy istnieje Boga, jak możemy znac jego istotę
+    + nie ma przejścia pomiędzy światem idei i materii
+  - jest jedna droga do dowodzenia istnienia Boga - poprzez doświadczenie
+  - 5 dróg
+    + dowód z ruchu - potrzebny jest nieruchommy poruszyciel (pierwszy poruszyciel, Bóg)
+    + dowód ze skończoności świata - 1. przyczyna w relacji przyczynowo skutkowej
+    + dowód z przygodności/przypadkowości - dla wszystkich bytów nie ma konieczności istnienia, byty przygodne tworzą byty przygodne
+    + ze stopniowalności doskonałości - jeżeli jedne rzeczy są doskonalsze od innych to istnieje rzecz najbardziej doskonała
+    + z celowości przyrody - celem bytu niższego jest służenie bytowi wyższemu
+
+*** Immanuel Kant
+  - krytykuje dowody ontologiczne
+    + z pojęcia przedmiotu możemy jedynie twierdzic o możliwości istnienia, nie o realności istnienia
+  - krytyka dowodu kosmologicznego
+      
+      
+ 
