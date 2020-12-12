@@ -1,13 +1,7 @@
-#+TITLE: Todo
 
-
-
-*** 25.11.20
-- przeczytac tekst na wstp
-- tablice logika
-*** 27.11.20
-- wysłać angielski
-*** 07.12.20
+*** 14.12.20
 - przemowa na retoryke
-*** hist-fil
-- czy jestem hedonistą, czy chciałbym być
+*** 13.12.20
+- książka na psychologię
+*** 14.12.20
+- mail dogadać sie z angielskim
