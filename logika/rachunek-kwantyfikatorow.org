@@ -1,0 +1,27 @@
+#+TITLE: rachunek kwantyfikatorow
+
+
+* wazni mysliciele
+  - david hilbert, ackerman, 
+* kwantyfikator
+  - naleza do stalych logicznych
+  - odpowiadaja zaimkom
+  - symbole (w krz ?)
+    - funktory
+    - nawiasy
+    - zmienne indywiduowe
+    - stale indywiduowe (indywidualne)
+  - symbole predykatowe (orzeczenia)
+    - funktory P Q R S 
+    - kwantyfikator ogolny - dla wszystkich, dla kazdego
+    - kwantyfikator szczegolny - istnieje taki ze
+
+
+* funkcje zdaniowe 
+  - P(x), Q(x), R(x, y), S(x, y)
+  - P, Q, R, S - zdania orzeczeniowe
+  - gdy podstawimy zmienne indywiduowe z funkcji zdaniowych otrzymujemy zdania
+    - funkcja(zmienna) = zdanie
+*** zmienna wolna
+  - zmienna poza zasięgiem kwantyfikatorów
+*** kwanytyfikatory wiążą mocniej niż spójniki
