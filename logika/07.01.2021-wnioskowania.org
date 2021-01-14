@@ -1,0 +1,21 @@
+#+TITLE: Wnioskowania
+
+Ajdukiewicz
+
+* Wnioskowanie :: proces myślowy, którym na podstawie mniej lub bardziej stanowczego uznania przesłanek dochodzimy do uznania wniosku, którego bądź dotychczas nie uznawaliśmy wcale bądź uznawaliśmy mniej stanowczo, przy czym stopień stanowczości uznania wniosku nie przewyższa stopnia uznania przesłanek 
+
+* Wnioskowanie :: rozumowanie, w którym na podstawie pewnych przekonań uznanych za prawdziwe ochodzimy do jakiegoś innego przekonania 
+
+* wnioskowanie jest *prawidłowe* jeżeli przebiega zgodnie ze schematem będocym tautologią
+
+* wnioskowanie w którym  wniosek wynika logicznie z przesłanek nazywamy wnioskowaniem dedukcyjnym
+* P -> W , (P1 ^ P2 ^ ... ^ Pn) -> W
+
+* wnioskowania 
+** niezawodne
+*** dedukcja :: prawdziwośc przesłanek gwarantuje prawdziwość wniosku
+*** indukcja enumeracyjna zupełna :: takie wnioskowanie, w którym twierdzenie ogólne wyprowadza się z przesłanek stwierdzających jego poszczególne przypadki oraz z przesłanki głoszącej, że przypadki te są wszystkimi możliwymi przypadkami (ta metoda jest jałowa, tzn. mało daje?)
+** uprawdopodapniające/probabilistyczne
+*** indukcja enumeracyjna niezupełna ::  
+*** indukcja eliminacyjna (kanony Milla)
+*** wniskowania z analogii

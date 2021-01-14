@@ -1,0 +1,5 @@
+thing      m     w
+cctv       good  bad
+face rec   good  bad 
+microchips bad   good 
+plate rec  bad   good

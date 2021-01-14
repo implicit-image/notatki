@@ -1,0 +1,241 @@
+
+#+TITLE: Epistemologia
+
+* Podmiot poznania
+
+* Przedmiot poznania
+
+* Akty poznawcze 
+  - wnioskowanie
+  - przypominanie
+
+* Rezultaty poznania
+  - sądy, twierdzenia, zdania
+  - pojecia
+
+* Filozofia jako poszukiwania nieempirycznych warunków poznania
+
+* Intencjonalnosc postrzegania 
+
+* Samoświadomość 
+
+* Kant, Hume
+
+* Henri Bergson
+
+* Edmund Husserl
+
+* Filozofia analityczna
+
+* Szkoła Lwowsko-Litewska
+  - Kazimierz Twardowski
+  - Kazimierz 
+  - Izydora Domska
+
+Roman Ingarden
+
+Jozef Tichsner
+
+Andrzej Putacki
+
+Adam Węgrzyski
+
+* KUL
+  - Antoni Stepień
+  - Mieczysław Gogacz  
+
+* Miejsce epistemologi w filozofii
+  - od 17 w (Kartezjusz) nastepuje przewrót w filozofii - epistemologia wyrasta ponad metafizyka
+  -  
+
+
+
+* Koncepcje prawdy
+
+** Koherencyjna koncepcja prawdy
+  - zgodnosc stwierdzeń mięzy sobą
+
+
+** Pragmatyczna koncepcja prawdy/utylitarystyczna
+  - prawdziwy jest sąd, który jest użyteczny w działaniu
+
+
+
+** Absolutyzm
+
+** Relatywizm 
+  - prawda, wiedza ludzka jest zależna od czynnikow społecznych, historycznych, kulturowych
+  - prawda jest stopniowalna 
+  - prawda jest aspektowa 
+  - przypadkowość
+  - relacyjnosć
+  - okazjionalność
+  - subiektywizm
+
+
+* Spór o źródła poznania 
+** Aspekt genetyczny
+  - pytanie o geneze wiedzy ludzkiej
+*** początkiem wiedzy ludzkiej jest doświadczenie
+
+*** początkiem wiedzy ludzkiej jest rozum - racjonalizm
+- Kant łączy racjonalizm z empirycyzmem
+
+** Aspekt metodologiczny
+  - jakie narzędzie pozwala dotrzec do wiedzy sensownej
+
+*** racjonalizm metodologiczny
+  - aprioryzm skrajny 
+    - platon
+  - aprioryzm umiarkowany - dopuszczalna jest wiedza aposterioryczna
+
+*** empiryzm metodologiczny
+  - aposterioryzm skrajny
+    - mill
+    - marksizm
+  - aposterioryzm umiarkowany - dopuszczalna jest wieddza aprioryczna
+
+
+* Podział sądów wg Kanta
+
+** Sądy aprioryczne
+   
+** Sądy aposterioryczne
+---------------------
+** Sądy analityczne
+  - nie wprowadzają nowej wiedzy
+
+** Sądy systentyczne
+  - sądy, które poszerzaja wiedzę
+
+* Spór o granice poznania
+  - realizm / iealizm epistemologicznym
+  - spór metafizyczny skutkiem sporu epistemologicznego
+* Spór o przedmiot poznania
+  - treści swiadomości czy coś zewnętrznego wobec świadomości
+  - trancendencja , immanencja 
+  - transcendencja ::  istnienie czegoś poza umysłem poznającym
+  - immanencja :: zawierenie się czegoś w czymś, pozostawanie wewnątrz - w procesie poznania nie przekraczamy własnej świadomości
+
+* Realizm epistemologiczny - przedmiot transcenduje podmiot poznania
+  - zmysły informuja mnie o rzeczywistych bytach, na podtawie ich czasowo-przestrzennych własności  
+  - przedmiot poznania istnieje niezależnie od tego, czy jest postrzegany
+  - realizm potoczny :: przdmioty poznania istnieją na zewnątrz podmiotu
+    - realizm bezpośredni/zdroworozsądkowy/prezentacjonizm :: realizm potoczny uargumentowany filozoficznie ,Thomas Read
+      - w procesie poznania docieram do wszytskich własności przedmiotu poznania 
+      - cechy pierwotne i wtórne obie przynależą przedmiotowi poznania  
+      - przedmiot poznania objawia się bez mediacji, w jednym akcie poznawczym 
+    - realizm krytyczny/naukowy/upośredniony/reprezentacjonizm :: poddaje poznanie refleksji
+      - między zewnętrznym wobec mnie przedmiotem poznania a jego obrazem w moim umyśle istnieje medium
+      - człowiek poznaje własności perwotne przedmiotów, własności wtórne są subiektywne 
+  - materializm dialektyczny   
+
+* 
+prezentacjonizm - poznanie bezpośrednie, immediatyzm
+  - bezpośrednio mamy dostęp do poznawanych przedmiotów
+  - tylko wiedza bezpośrednia spełnia funkcje , więc wiedzę pośrednią należy sprowadzić do wiedzy bezpośrednięj by byla pewna
+
+reprezentacjinizm mediatyzm - zawsze istnieje pośrednik między przedmiotem a podmiotem
+  - wieloetapowy - poznanie wykorzystuje medium - naturalne 
+  - np reprezentacjonizm Epikura
+    - poznanie - odbiór atomów zmysłami, zmysły tworza obraz/podobiznę kubka, obraz odsyła do zewnetrznego kubka 
+  - reprezentacjonizm Arystotelesa
+    - odbieram dane z różnych kubków, zbieram materiał doświadzceń, mój umysł czynny znajduje cechy wspólne pomiędzy doświadczeniami kubka, umysł bierny buduje z nich pojęcie kubka  
+
+* idealizm - 
+  - idealizm immanentny :: podważa tezę że przedmiot poznania istnieje na zewnatrz podmiotu, przedmoty instnieją 
+  - George Berkeley
+    - przedmiotem poznania są doznania umysłu
+    - proces poznania polega na obcowaniu z własnymi wrażeniami zmysłowymi
+    - /esse est percipi/ 
+    - nie istnieja przedmioty niezalezne od świadomości 
+  - idealizm transcendentalny :: twórca - Immanuel Kant
+    - przedmioty poznania są niezależne od podmiotu i niepoznawalne - noumeny
+    - podmiot odbiera tylko bodźce
+    - na bodźce nakładam aprioryczne formy i konstytuuje przedmiot poznania 
+    - poznanie ma charakter aktywny - polega na kontruowaniu przedmiotu poznania(nakładając kategorie) z wrażeń(fenomenów) pochodzących z noumen(rzeczy samych w sobie)
+    - ludzki umysł jest wyposazony w 12 kategorii - sposobów myslenia
+    - rozum praktyczny(), intelekt( w nim 12 kategorii), rozum spekulatywny 
+    - czas i przestrzeń nie istnieją w świecie zewnętrznym (nie możemy spróbowac ich zmienić)
+
+
+* agnostycyzm epistemologiczny - Thomas Huxley   
+  - powrzechny  - stanowisko, które głosi że wszelkie poznanie pozampiryczne nie przynosi wiarygodnych rezultatów
+  - cząstkowy - pewny rewir rzeczywistości pozaempirycznej jest niepoznawalny 
+
+  - Aureliusz Augustyn - wiedza poprzez Boga, iluminacje 
+  - intuicja (w filozofii) - rodzaj poznania intelektualnego bez wnioskowania
+  - David Hume 
+    - nie ma materialnego, obiektywnego istnienia rzeczy, nie mozna więc ich poznać
+  - Immanuek Kant
+  - August Comte
+  - Herbert Spencer
+
+  - relatywizm epistemologiczny 
+    - wiedza zależy od podmiotu poznającego
+    - pragmatyzm amerykański - William James
+  - konwencjonalizm
+    - prawdy naukowe są resultatem zgody naukowców
+  - antykonkretyzm 
+    - kwestionuję poznawanie rzeczy jako indywiduów
+  - irracjonalizm/fideizm
+    - kwestionuje wartośc poznania opartego na rozumie
+    - instnieje inny niż rozum lub doświadczenie środek poznania świata
+
+* Sceptycyzm
+  - /skeptomai/ - szukam, rozpatruję
+  - /skeptikos/ - wątpiący
+  - Skeptycy w starożytności
+    - Pyrron z Elidy (nazywali sie pyrronistami)
+  
+** dot. efektów
+  - stanowisko uznające że nie jest mozliwe osiągnięcie pewnosci w akcie poznania 
+  - nalezy powstrzymac sie od wydawania sądów 
+
+
+
+
+  - Arkezylaos z Pitane
+  - Karnedaes z Cyreny
+  - Anezyem z Konossos
+  - Agryppa
+  - Sekstus Empiryk
+
+
+** tezy 
+  - ludzie doświadczaja tylko fenomenow
+  - wszystkie sądy o rzeczach są sądami równosilnymi poznawczo 
+  - ludziom brak kryterium dzięki któremu mogli by wykazać który z sądów dotyczacyh tej samej reczy jest prawdziwy, a który fałszywy
+** wniosek
+  - powinniśmy powstrzymać się od wydawania sądów kategorycznych dotyczacych rzeczy i ich przyczyn 
+
+** poznanie zmysłowe nie daje nam wiedzy pewnej - Anezydem z Knosssos
+  - rzeczy są róznie postrzzegane przez różne gatunki istot
+  - rzeczy śą różnie postrzegany przez przedstawicieli tego samego gatunku
+  - rzeczy są różnie postrzegane przez jeden egzemplarz gatunku równymi zmysłami
+  - rzeczy są różnie postrzegane w zależności od warunków w których jest postrzegający
+  - rzeczy są różnie postrzegane w zalezności od położenia i odległości względem postrzegającego
+  - rzeczy są równie postrzegane w zależności od środowiska które je otacza 
+  - rzeczy są różnie postrzegane w zależności od ilości w jakiej występują
+  - rzeczy są różnie postrzegane w zależności od stanu w jakiej się znajdują 
+  - rzeczy są różnie postrzegane w zależności od tego czy i jak były wcześniej postrzegane
+** poznanie rozumowe nie daje wiedzy pewnej
+
+*** przeciw indukcji
+  - indukcja niezupełna jest wątpliwa bo nie bierze pod uwagę wszystkich przypadków
+  - indukcja zupełna jest niemożliwwa do przeprowadzenia (nie mozna przebadać przeszłych i przyszłych)
+
+*** przeciw dedukcji
+  - rozbieżności poglądów dotycząca tezy ogólnej
+  - regres w nieskończoność przy uzasadnianiu - aby coś udowodnic trzeba przyjąć przesłanki (które trzeba uowodnić itd...)
+  - błędne koło w dowodzeniu - przy przyjmując ogólna tezę
+
+
+** dot. sposobu - sceptycyzm metodologiczny - wątpienie jako metoda osiągnięcia pewności 
+  - Kartezjusz - zauważył, że różne gałęzie wiedzy są sprzeczne
+    - zmysły nie działają
+    - zły demon, więc rozum nie działa'
+    - sen i jawa nie mogą być rozróżnione 
+    - więc co jest pewne - instnieje wątpliwość/myśl → istnieje rzecz wątpiąca/myśląca - /cogito ergo sum/ 
+
+

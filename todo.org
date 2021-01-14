@@ -1,7 +1,18 @@
 
-*** 14.12.20
-- przemowa na retoryke
-*** 13.12.20
-- książka na psychologię
-*** 14.12.20
-- mail dogadać sie z angielskim
+*** 15.01.2021
+- his-fil - test -- 14
+- wpr recenzja -- 15
+- mowa ang -- 15
+- psych. --14
+- zaległa łacina --14 
+*** 19.01.2021
+- prezentacja 
+*** 20.01.2021
+- greka 
+- logika
+
+*** na kolokwium z logiki
+
+-  czy zdanie jest prawdą logiczną - czy jest tautologią
+- wynikanie logiczne
+- czy pomiędzy zdaniammi zachodzi związek sprzecznoścu logicznej

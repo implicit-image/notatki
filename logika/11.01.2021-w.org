@@ -1,0 +1,27 @@
+#+TITLE: 
+
+
+jaki język
+
+* Język naturalny a rachunek kwantyfikatorów
+
+** rzeczowniki
+  - x, y, z
+
+** przymiotniki
+  - gdy mają różne znaczenia należy przypisać różne symbole predykatowe do różnych znaczeń
+  - dobry pies, dobry student, dobry człowiek - dobry ma różne znaczenia
+  - forall. x [S(x) ^ R(x) ^ P(x) -> D(x)]
+
+
+** czasowniki 
+  - P(a, x, y) - x pisze x y - P(Jan, piórem, list)
+  - '
+
+** przysłówki ...
+  - P(a, x, y) - czasem a (x ^ y)
+  - ex. x ex. y [B(x) ^ T(y) ^ P (a, x, y)]
+
+  - D(x, y) - x dąży do y
+  - O(x, y) - x osiąga y
+  - forall. x y [D(x, y) -> O(x, y)]
