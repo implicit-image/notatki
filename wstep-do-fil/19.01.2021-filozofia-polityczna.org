@@ -1,0 +1,114 @@
+* Nauki szczegółowe a filozofia społeczna
+** filozofia społeczna jest normatywna 
+** wiele szkół filozofii społecznej przekracza doświadczenie (metafizyka)
+** filozofia społeczna nie dzieli na dziedziny
+
+
+* problemy filozofii społecznej
+** Metafizyka
+*** poczhodzenie życia społecznego
+*** istota życia społecznego
+*** jaką strukturę ma życie społeczne 
+*** stosunek bytowy między jednostką a grupą społecznym
+*** 
+
+** Etyka
+*** jakie życie polityczne to dobre życie społeczne
+*** jakie wartości są istotniejsze i jakie relacje zachodzą
+*** instytucje społeczne
+
+** Indywidualizm???
+
+* Historia filozofii społecznej
+
+** Starożytnośc
+  - filozofia społeczna to filozofa polityki
+  - polityka == filozofia polityki
+  - polityka jest doskonała
+    - jest wspólnotą samowystarczalną
+    - dla starożytnych - kto jest człowiekiem
+  - polityka ogarnia wszystkie dziedziny życia społecznego
+  - różnica między klasyczną a nowożytną
+    - jaki jest najlepszy władca
+    - jaki jest najwyższy ustrój
+    - moralny rozwój życia społecznego
+  -
+
+
+** Nowożytność
+  - liberalizm
+  - pojawiaja się szkoły myślenia
+ 
+** Hannah Arendt 
+  - rekonstruktorka klasycznej filozofii polityki
+  - zafałszowanie rozumienie polityki w czasach nowożytnych 
+  - polityka :: pejoratywny charakter polityki 
+  - polityka
+    - interesowność
+    - przemoc 
+  - powyższe jest wypaczeniem sensu polityki
+  - polityka /polis/ - to co jest pomiędzy ludźmi 
+  - konstekst powstania polityki - różnice pomiędzy ludźmi
+  - trzy wartości polityki  
+    - wolność :: wolnosc w wyrażaniu swojej opinii, krytykowaniu opinii innych 
+    - równość :: nie ma lepszych i gorszych głosów 
+    - bezstronność ::   
+
+
+  
+** demokracja liberalna 
+  - zasada demokratyczna :: suwerenność ludu; obywatele maja władze (poprzez delegacje) 
+  - zasada liberalna :: wolności prywatne i obywatelskie
+    - wolność negatywna
+  - trójpodział władzy  
+  - w demokracji liberalnej zasada liberalna jest fundamentem
+** Liberalizm
+  - od /liber/ (łac) wolność
+  - rozumienie potoczne :: ... 
+  - rozumienie polityczne :: 
+    - wolnośc osobista/indywidualna :: wolnośc w sferach, w których nikt na mnie nie oddziałuje; przekłada się na konkretne swobody:
+      - słowa
+      - zgromadzeń
+      - stowarzyszania się
+      - religijna
+      - dysponowania i nabywania własności
+      - edukacji
+      - pracy najemnej
+      - zainteresowań
+    - John Locke 17 w 
+    - indywidualistyczny 
+      - aksjologicznie - pierwszeństwo jednostki przed jakąkolwiek zbiorowością
+      - metodologicznie - musimy wyjaśniać zjawiska zaczynając od jednostek
+    - egalitaryzm - równosć w prawie i równość w moralności 
+    - uniwersalizm - wszyscy ludzie są do siebie podobni - w kwestii rozumu
+    - melioryzm - ludzie mają skonności zarówno do dobra jak i do zła
+    - muszą być zagwarantowane w prawie wolności prawa i wolności człowieka 
+      - swobody polityczne 
+        - prawo do swobodnej wypowiedzi politycznej
+        - prawo do zajmowania urzędu 
+      - swobody obywatelskie 
+        - 
+      - swobody osobiste
+        - wolność myśli
+        - wolność poruszania się
+        - wolnośc ciała i umysłu
+        - wolność posiadania własności prywatnej 
+    - pierwszeństwo wolności przed dobrobytem ogółu i przed perfekcjonizmem
+    - popiera konstytucjonalizm 
+    - prawo do nieposłuszeństwa obywatelskiego
+    - rozdział religii od państwa 
+    - John Stewart Mill - trzeba wyksztalcic masy, dopuścic je do władzy
+      - warunkiem demokracji jest powrzechna edukacja
+
+  - rozumienie gospodarcze :: 
+    - powstaje w 18 w
+    - Adam Smith
+    - klasyczny
+      - wolnorynkowy 
+      - koncepcja państwa minimalnego/nocnego stróża
+      - brak ingerencji państwa w ekonomię
+      - Hayek, von Misses, Friedman
+    - John Stuart Mill
+    - liberalizm społeczny/socjalny/reformistyczny
+      - koncepcja państwa opiekuńczego/dobrobytu
+      - Dewey, Rawls, Hans Kalsen, John Kaynes 

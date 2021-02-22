@@ -27,3 +27,4 @@
 ** Epiheremat - sylogizm w którym przesłanki
 
 * Rachunek kwantyfikatorów
+  

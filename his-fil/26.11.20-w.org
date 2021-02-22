@@ -8,6 +8,6 @@
 - erystyka - sztuka prowadzenia sporów
 - liczy się to, co dobre bo tylko to może uczynić człowieka szczęśliwym
 - położyli fundamenty pod logikę
-- antynomia
+- antynomia :: paradoks
   - paradoks kłamcy
     + wszyscy kreteńczycy są kłamcami - kreteńczyk
