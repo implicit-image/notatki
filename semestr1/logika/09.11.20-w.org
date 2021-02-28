@@ -1,4 +1,4 @@
-#+TITLE: 09 11 20 W
+x#+TITLE: 09 11 20 W
 
 * Logika
 - logika - zasada jasnego, poprawnego wyrażania myśli

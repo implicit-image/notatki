@@ -1,6 +1,0 @@
-#+TITLE: Todo
-
-
-
-* TODO
-- Uzupełnić lekcję z 13.11.20

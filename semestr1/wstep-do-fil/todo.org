@@ -1,4 +1,0 @@
-#+TITLE: Todo
-
-* TODO
-- [ ] przeczytać teskty (w teamsach)

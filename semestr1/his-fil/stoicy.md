@@ -1,0 +1,164 @@
+
+# Table of Contents
+
+1.  [Stara szkoła stoicka - Stoa stara](#org9467d93)
+2.  [Średnia szkoła stoicka - Stoa średnia](#org14202ea)
+3.  [Młodsza szkoła stoicka - Stoa młodsza](#org965604f)
+4.  [Szkoła młoda](#org3cd2ab2)
+    1.  [Zenon z Kition (333-262 r. p.n.e.)](#org430ff2c)
+    2.  [Kleantes z Assos (331/330-230/229 r. p.n.e.)](#org86a892d)
+    3.  [Chryzyp z Soloi lub z Tarsu (ok. 282-ok. 208 r. p.n.e.)](#org35e1f7b)
+5.  [Szkoła średnia](#org09a2325)
+    1.  [Panajtios z Rodos (ok. 185-110 r. p.n.e.)](#org0d7de10)
+    2.  [Posejdonios z Apamei (ok. 135-51 r. p.n.e.)](#org9a8bcae)
+6.  [Szkoła młodsza](#orgcfcb65f)
+    1.  [Seneka z Kordoby (4 r. p.n.e. - 65 r. n.e.)](#org2165875)
+
+Zenon z Kition
+
+
+<a id="org9467d93"></a>
+
+# Stara szkoła stoicka - Stoa stara
+
+-   300 - 150 r pne
+-   logika
+-   fizyka
+-   etyka
+
+
+<a id="org14202ea"></a>
+
+# Średnia szkoła stoicka - Stoa średnia
+
+-   150 - 50 r pne
+-   ojczyzna stoików przenosi się do Rzymu (nie jest to jeszcze filozofia rzymska)
+-   Panajtios
+-   Posejdonios
+-   do rzymu przenikaja elementy z innych szkół filozoficznych
+-   ma to oddziaływanie na ruch stoistyczny
+
+
+<a id="org965604f"></a>
+
+# Młodsza szkoła stoicka - Stoa młodsza
+
+-   50 r pne - 200 r ne
+-   Seneka
+-   Marek Aureliusz -
+
+etyka > fizyka > logika
+
+-   stoicka logika
+    -   **retoryka:** sztuka przemawiania, przekonywania
+    -   **dialektyka:** sztuka rozmawiania z innymi, sztuka prowadzenia dialogu
+    
+    -   logika zdań/rachunek zdań
+
+-   stoicka fizyka
+    -   w zadnymm innym celu nie ma potrzeby zajmować sie poznawaniem natury jak tylko żeby odróznic dobre od złego
+    -   pneuma - rozum świata - logos - dusza świata - prawo natury
+    -   pneuma jest to siła która spaja, utrzymuje cały istniejący świat w całosci
+    -   przenika wszystko co istnieje (zatem również człowieka)
+
+-   stoicka etyka koncetruje sie na pokazaniu jak chcąc człowiek może dzialać w pewnego rodzaju symbiozie z kosmosem
+
+
+<a id="org3cd2ab2"></a>
+
+# Szkoła młoda
+
+
+<a id="org430ff2c"></a>
+
+## Zenon z Kition (333-262 r. p.n.e.)
+
+-   uczeń Ksenokratesa (Akademika)
+-   ok 300 pne otwiera w Atenach swoja szkołę
+-   Zenon wyrózniał sie surowym wygladem, prowadził ascetyczny tryb zycia
+-   bradziej wstrzęmiezliwy niż filozof Zenon
+-   popełnił samobójstwo
+
+
+<a id="org86a892d"></a>
+
+## Kleantes z Assos (331/330-230/229 r. p.n.e.)
+
+-   był zawodowym pięściażem
+-   pracował dla szkoły żeby zarobic na edukacje - nazywano go osłem
+-   'Hymn do Zeusa' - poetycki obraz myśli stoickiej (która była panteistyczna) wiara w prawa natury
+-   po 30 latach prowadzenia szkoły popełnił samobojstwo (zagłodził się)
+
+
+<a id="org35e1f7b"></a>
+
+## Chryzyp z Soloi lub z Tarsu (ok. 282-ok. 208 r. p.n.e.)
+
+-   był biegaczem
+-   zajmował sie poszerzeniem nauk swoich poprzedników - uważa sie go za 2 założyciela Stoi
+-   dzieła (705)  nie zachowały się ( tylko fragmenty)
+-   zredagował dzieła poprzedników; uniemozliwia to jednak przypisanie poszczególnych poglądów do poszczególnych stoików (przed Chryzypem)
+
+
+<a id="org09a2325"></a>
+
+# Szkoła średnia
+
+
+<a id="org0d7de10"></a>
+
+## Panajtios z Rodos (ok. 185-110 r. p.n.e.)
+
+-   przybywa do rzymu jako poseł ateński, zasczepia na gruncie greckim myśl stoicką
+-   staję sie znana w rzymie osobstoscią - kręgi inteligencji (koło Scypiona Młodszego - pogromcy Kartaginy)
+-   pisma nie zachowały się
+-   Cyceron korzysta z jego twórczości
+-   życie w cnocie - konieczniość zachowania (praktykowania) 4 cnót :
+    -   prudentia - mądrość, zdrowy rozsądek; niezbędna do rozpoznawania tego, co jest dobre
+    -   iustitia - sprawiedliwość
+    -   fortitido - męstwo, dzielność; niezbędna do rezygnacji z rzeczy materialnych
+    -   modestia - umiarkowanie;
+-   nie uznaje astrologii, wróżbiarstwa itd
+-   wychodzi poza stanowisko Zenona (wszelkie wskazówki moralne powinny byc realizowane dla dobra obywateli całego świata) i podkresla znaczenie rodziny i państwa
+-   odrzuca przyjetą przez innych stoików koncecję wiecznego powrotu
+
+
+<a id="org9a8bcae"></a>
+
+## Posejdonios z Apamei (ok. 135-51 r. p.n.e.)
+
+-   urodził sie w Syrii
+-   uczeń Panajtiosa
+-   w 97 r pne założył na wyspie Rodos szkołę
+-   do jego szkoły przybywali rzymianie którzy chcieli poznać filozofię (było to dość potrzebne do życia w wyższych, politycznych kręgach)
+-   cieszył sie opinią najbardziej wszechstronnego uczonego Hellenizmu (astronomia, geografia, historia, retoryka, logika itp, itd)
+-   wierzył we wrózby, astrologie itp
+
+
+<a id="orgcfcb65f"></a>
+
+# Szkoła młodsza
+
+
+<a id="org2165875"></a>
+
+## Seneka z Kordoby (4 r. p.n.e. - 65 r. n.e.)
+
+-   nazywany Seneką Młodzym, Seneką Filozofem
+-   umiera śmiercią samobójczą
+-   zaczął wspinac sie po drabinie urzędniczej
+-   w 41 r ne Seneka popada w niełaskę i zostaje przez Klaudiusza skazany na wygnanie (7 lat)
+-   seneka odbywał karę na Korsyce
+-   w 48 Seneka zostaje ułaskawiony i zostaje wychowawcą Nerona
+-   54 - Neron zostaje cesarzem
+-   Seneka pisze De clementia - 'O łagodności' - zaleca w nim Neronowi łagodne postepowanie
+-   Seneka zostaje doradcą Nerona
+-   na poczatku lat 60 Seneka wycofuje sie z zycia publicznego - wzbudza to podejrzenia Nerona
+-   w 65 r ne Seneka zostaje posądzony o udział w spisku Pizona
+-   124 listy  Epistulae morales ad Lucilium
+-   pojawiaja sie w jego pracach koncepty wspólne z chreścijaństwem
+-   
+
+Epiktet z Hierapolis (ok. 55-135 r. n.e.)
+Marek Aureliusz z Rzymu (121-180 r. n.e.)
+
