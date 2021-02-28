@@ -1,0 +1,42 @@
+#+TITLE: język w ujęciu filozoficznym
+
+* znaki
+
+konwencje referencji - prawdziwość wypowiedzi
+
+konwencje semantyczne - sens wypowiedzi
+
+przezroczystość znaku - odbiorca znaku widzi poprzez znak zawartość komunikatu  
+
+* znak jako symptom, oznaka 
+
+* ślad
+
+
+* funkcja znaku
+  ** funkcja znaczenia - znaczenie danego wyrażenia w danycm języku to sposób w jaki należy to wyrażenie w tym języku zrozumieć
+  ** funkcja wyrażania - znaki językowe opisuja wrażenia psychiczne, 
+
+*** słownik
+  - słownikiem danego języka nazywa się zbiór symboli elementarych i wyrażeń (alfabet i słownik(w węższym tego słowa znaczeniu))
+
+
+*** reguły znaczeniowe języka 
+  - reguły których należy przestrzegać by nie naruszyć znaczenia wyrażeń
+
+*** reguły skladni języka
+  - reguły które określają jakie połączenia znaków prostych (np słów) są również znakami tego języka 
+
+
+* Rodzaje języków 
+** ze względu na fizyczny charakter znaków
+  - aukustyczne 
+  - graficzne
+  - gestowo-mimiczny (nie funkcjonuje on samodzielnie, najczęsciej z językiem mówionym)
+  
+
+** języki sztuczne
+  - warunek ekonomiczności języka - eiminacja elementów zbędnych
+
+
+

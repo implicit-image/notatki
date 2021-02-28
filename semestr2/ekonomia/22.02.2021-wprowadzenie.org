@@ -1,0 +1,27 @@
+
+#+TITLE: wprowadzenie do ekonomii
+
+
+* ekonomia 
+  - nauka o procesach gospodarczych. stara się wykrywać i opisywać prawidłowosci rządzące tymi pricesami, czyli tzw prawa ekonomiczne. Bada w jaki sposób ludzie wykorzystują zasoy będące w ich dyspozycji w celu zaspokojenia różnorodnych potrzeb.
+  - cele ekonomii
+    - poznanie rzeczywistości gospodarczej
+    - opisanie jej
+    - wyjaśnienie przyczyn i natury zjawisk oraz procesów zachodzących w gospodarce
+
+
+
+** podział ekonomii
+*** mikroekonomia
+*** makroekonomia
+*** mezoekonomia
+
+
+** typy podmiotów gospodarczych
+  - przedsiębiorstwo - podmiot gospodarczy, który prowadzi działalność produkcyjną, handlową lub usługowąw celach zarobkowych i na własny rachunek
+  - gospodarstwo domowe - najmniejsza komórka społeczna (najczęściej rodzina) która gromadzi dochody i wspólnie je wydaje, ay zaspokoić swoje potrzeby konsumpcyjne
+  - państwo - złożona i wielozczeblowa struktura administracyjna społeczeństwa zamieszkującego dane tyretorium. dysponuje władzą ustawodawczą, wykonawcza i sądowniczą
+
+** typy systemów ekonomiczny
+  - gospodarka rynkowa   /*pure ideology*/
+  - gospodarka centralnie planowana
