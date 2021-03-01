@@ -1,0 +1,45 @@
+#+TITLE: język cd
+
+* Język cd
+
+** Stopnie języka
+
+- język I stopnia - opisujemy rzeczywistość pozajęzykową
+- język II stopnia - opisujemy język poprzedniego stopnia
+- język III stopnia - opisujemy język poprzedniego stopna , itd
+
+- np I - język prawa, II - język prawniczy (mówi o języku prawa)
+
+- w językach etnicznych (naturalnych) trudno odróżnić stopnie języka (rezultatem jest wieloznaczność wypowiedzi)
+
+- problem: wypowiedzi w metajęzyku mogą być zrozumiane jako wypowiedzi w I stopniu
+
+- jezeli zmiesza się języki różnych stopni w języku naturalnym moze dojsć do paradoksów, np paradkos kłamcy
+- aby uniknąć tego typu paradoksow należy wyrażnie rozdzielić poiomy języka w wypowiedzi
+
+** najważniejsze funkcje języka
+
+*** funkcja opisowa 
+- tym zajmuje się logika
+
+*** funkcja emotywna, ekspresyjna
+- wyraża stany emocjonalne
+
+*** funkcja sprawcza
+- zobowiązania, przysięgi, wyroki
+
+*** funckja dyrektywna
+- wyraża polecenie (otwórz okno) lub wywołuje jakieś działanie (ktora godzina)
+
+*** funkcja magiczna
+- przekleństwa, życzenia, powiedzenia
+
+*** funkcja estetyczna
+
+*** funkcja metajęzykowa
+
+
+
+
+
+

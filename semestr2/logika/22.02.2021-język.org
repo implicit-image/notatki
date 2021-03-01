@@ -9,7 +9,7 @@ konwencje semantyczne - sens wypowiedzi
 przezroczystość znaku - odbiorca znaku widzi poprzez znak zawartość komunikatu  
 
 * znak jako symptom, oznaka 
-
+  
 * ślad
 
 
@@ -40,3 +40,4 @@ przezroczystość znaku - odbiorca znaku widzi poprzez znak zawartość komunika
 
 
 
+  
