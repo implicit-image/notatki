@@ -1,27 +1,38 @@
 #+TITLE:Etyka a moralność
-* Etyka a moralność
+** Etyka a moralność
   - Etyka to teoria moralności
   - Moralnosć obejmuje obszar praktycznych czynów i decyzji
   - w kontekście danego społeczenstwa mozna je przyrównać
   - moralność jest przedmiotem etyki
   - summum bonum - dobro najwyższe 
 
-* Działy etyki
-** etologia, etyka opisowa (XIX w)
+** Działy etyki
+*** etologia, etyka opisowa (XIX w)
     - badanie moralności w aspekcie socjologicznym, historycznym i psychologicznym
     - nie wartościuje, jej główną funckja jest opisanie i wyjaśnienie zjawisk moralnych
     - moze byc uprawiana jako historia moralności
-** etyka normatywna, etyka właściwa, etyka filozoficzna (od antyku)
-** metaetyka (najmłodsza)
+*** etyka normatywna, etyka właściwa, etyka filozoficzna (od antyku)
+*** metaetyka (najmłodsza)
 
 
 
-elementy systemu etycznego
-normy moralne- prawidło, zasady moralne np nie zabijaj
-  - normy ideału (np zaopiekuj sie cudzym dzieckiem)
-  - normy obowiazku (np zaopiekuj się własnym dzieckiem)
-oceny moralne
-wzorce osobowe 
-sankcje moralne
+*** elementy systemu etycznego
+- normy moralne- prawidło, zasady moralne np nie zabijaj
+  + normy ideału (np zaopiekuj sie cudzym dzieckiem)
+  + normy obowiazku (np zaopiekuj się własnym dzieckiem)
+- oceny moralne
+- wzorce osobowe 
+- sankcje moralne
+  + wykluczenie z grupy społecznej
+  + plotka
+  + ?
 
-przeczytać etyka wielka arystotelesa księga pierwsza
+** Funkcje etyki (wobec moralnosci)
+- informacyjno - komunikatywna
+- integracyjno - społeczna :: przedstawiane przez system nnormy scalaja ludzi
+- regulatywna :: normy i wzory wpływaja na konkretne postepowanie ludzi
+- praktyczno - inspirująca :: normy, wartości i ideały mogą działać inspirująco
+- integracyjno - psychiczna :: przestrzeganie i znajomość norm moralnych integruje wewnętrznie człowieka
+- wychowawcza :: wpływa na kształtowanie społecznej swiadomości moralnej
+- naukowa :: wartościowanie danych kierunków badań
+# przeczytać etyka wielka arystotelesa księga pierwsza

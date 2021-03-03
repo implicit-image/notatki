@@ -25,3 +25,45 @@
 ** typy systemów ekonomiczny
   - gospodarka rynkowa   /*pure ideology*/
   - gospodarka centralnie planowana
+   
+* TODO:Sformatować 
+---
+
+Ekonomia - nauka o procesach gospodarczych. Wykrywa i opisuje prawidłowości rządzące tymi procesami - prawa ekonomiczne. Bada w jaki sposób ludzie wykorzystują zasoby będące w ich dyspozycji w celu zaspokojenia różnorodnych potrzeb.
+
+Cele ekonomii:
+
+1. Poznanier zeczywistości gospodarczej
+2. opisanie jej
+3. wyjaśnienie przyczyn i natury zjawisk oraz procesów zachodzących w gospodarce.
+
+Systematyka ekonomii:
+
+- mikroekonomia - zjawiska i procesy gospodarcze w poszczególnych obszarach gospodarki. np. analiza działalności poszczególnych podmiotów gospodarczych i rynków
+- makroekonomia - gosapodarka narodowa, światowa (inflacja, bezrobocie, wzrost gospodraczy)
+- mezoekonomia - zjawisja i procesy  gospodarcze w sektorach, branżach, grupach społęcznych itd (coraz częściej wyodrębniana)
+
+Typy podmiotów gospodarczych:
+
+- przedsiębiorstwo - prowadzi działalność produkcyjną/handlową/usługową (w celach zarobkowych[dąży do maksymalizacji zysku] i na własny rachunek)
+- gospodarstwo domowe - najmniejswza komórka społeczna (najczęściej rodzina) - wspólnie gromadzi i wydaje dochody by zaspokoić potrzeby konsumpcyjne
+- państwo - szłożona i wieloszczeblowa struktura administracyjna społęczeństwa zamieszkującego określone terytorium. włądza ustawodawcza, wykonawcza i sądownicza.
+- są inne (np. banki) ale tewyżej są najczęstsze
+
+Typy systemów ekonomicznych:
+
+1. Gospodarka rynkowa
+    - włąsność prywatna
+    - wolność wyboru
+    - interes własny
+    - konkurencja
+    - alokacja poprzez rynek
+    - ogroniczona rola rządu
+2. Gospodarka centralnie planowana (korea północna, chiny, kuba, 
+    - własność publiczna
+    - planowanie produkcji
+    - planowanie dystrybucji
+    - ceny ustalane przez rząd
+    - system nakazowo-rozdzielczy
+3. gospodarka mieszana
+    - cechy obydwu tych gospodarek

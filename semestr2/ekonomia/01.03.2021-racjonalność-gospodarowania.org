@@ -1,0 +1,50 @@
+
+* Racjonalność gospodarowania
+
+- gospodarowanie :: całokształt działalności gospodarczej człowieka
+  + produkcja
+  + podział
+  + wymiana
+  + konsumpcja
+
+Istotą gospodarowania jest racjonalne wykorzystanie zasobów w celu zaspokojenia potrzeb
+
+- potrzeba :: odczuwalny stan braku czegoś i dążenie do jego zaspokojenia
+  + materialne
+  + niematerialne
+
+**POTRZEBY LUDZKIE SĄ NIEOGRANICZONE**
+
+- dobra :: środki zaspokajania potrzeb
+  1) ze względu na funkcję
+    + substytucyjne :: pełniące zblizone funkcje, mogące sie wzajemnie zastęopować
+    + komplementarne :: wzajemnie się uzupełniające
+  2) ze względu na zapotrzebowanie
+    + normalne :: zapotrzebowanie rośnie w miarę wzrostem dochodów
+    + podrzędne :: zapotrzebowanie spada w miarę wzrostu dochodów
+  3) ze względu na pochodzenie
+    + ekonomiczne (gospodarcze) :: są efektem działalnosci gospodarczej człowieka
+    + wolne :: istnieją w przyrodzie w formie gotowej
+
+
+- zasoby
+  + praca :: zasoby ludzkie, wiedza, umiejętności
+  + ziemia :: ziemia w ścisłym tego słowa znaczeniu oraz bogactwa naturalne
+  + kapitał
+    - rzeczowy :: budynki, maszyny, fabryki
+    - finansowy :: środki pienieżne, akcje, obligacje
+
+**ZASOBY SĄ OGRANICZONE**
+
+*** Problem rzadkości w ekonomii :: każdemu wyborowi towarzyszą 2 efekty (koszt alternatywny) 
+
+*** Rachunek ekonomiczny
+
+- rachunek ekonomiczny :: porównywanie efektów podejmowanych działań oraz nakładów niezbędnych do ich zrealizowania
+
+*** zasady racjonalnego gospodarowania
+  - przy danym nakładzie środków osiągnąć jak największy efekt   ?(jak najmniejszy stosunek nakladu do efektu)
+  - maksymalizacja różnicy między efektem a nakładem
+
+ 
+
