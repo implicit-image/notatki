@@ -1,0 +1,34 @@
+#+TITLE:Znaczenie cd.
+
+
+* Koncepcje znaczenia 
+
+
+*** Chomsky
+- postulował, że istnieje nieświadoma, wrodzona wiedza składniowa
+- nie da się inaczej wytłumaczyć ludzkiej zdolnosci do wytwarzania nowych zdań i determinacji ich prawdziwości
+
+*** Charles Sanders Pierce (1839 - 1914)
+- pragmatysta amerykański, filozof, semiotyk
+- znak/reprezentamen :: coś co dla kogos zastępuje coś innego pod pewnym względem. znak zastępuje przedmiot(tylko w relacji; dla kogoś lub czegoś) 
+- cały znak nie może istnieć bez całego systemu znaków
+- znaki nie są autonimmmiczne, zależa od systemu znaków
+- znak nie jest niezależny od tego, co znaczy  
+- nie istnieje poznanie bezpośrednie - wyraża się w znaku i odnosi się do inncyh znaków
+- nie ma prawd oderwanych, pojedynczych
+- poznanie ma charakter niesubiektywny
+- przedmiot, do którego odnoszą się znaki jest rzeczywisty, zewdnętrzny 
+- jeżeli myśl da sie przełożyc na zasady działania nie jest autorefleksją; dotyczy czegoś, ma odniesienie przedmiotowe
+
+*** Richard Rorty
+- 
+
+*** Jaques Derrida
+- "Jak okiem sięgnąć tekst"
+- nie ma rzeczywistosci poza rzeczywistością językową (?)
+
+*** John Herbert (?)
+- behawiorysta społeczny
+
+*** Mitt
+
