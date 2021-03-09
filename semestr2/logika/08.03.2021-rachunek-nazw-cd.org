@@ -1,0 +1,10 @@
+* Rachunek Nazw cd
+
+*** Supozycje
+- jaką funkcję dana nazwa pełni w zdaniu
+- Supozycja prosta :: witwg dotyczy ona konkretnie wskazanego desygnatu
+- Supozycja formalna :: witwg dotyczy ogólnego zbioru desygnatów (nie dotyczy nazw indywidualnych)
+- Supozycja materialna :: witwg odnosi się do siebie samej (metajezyk) 
+
+stół krzywy ryj żal maleństwo
+sejm naturalny satelita ziemi wielkki egoizm matka wisławy szymborskiej

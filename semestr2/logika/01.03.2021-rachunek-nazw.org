@@ -1,4 +1,4 @@
-#+TITLE: Rachunnek Nazw
+
 
 
 * Rachunek nazw
@@ -63,7 +63,7 @@ Nazwom złozonym można przyporządkować równoznaczne im nazwy proste
 - nieostre :: nie można jednoznacznie wyznaczyć jej zakresu (są niewyrażne)
 
 
-*** Ze względun na znaczenie
+*** Ze względu na znaczenie
 
 **** Ze wględu na posiadanie znaczenia
 

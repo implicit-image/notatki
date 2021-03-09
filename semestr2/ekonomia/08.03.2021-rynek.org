@@ -1,0 +1,42 @@
+* Rynek 
+
+*** Klasyfikacja rynków
+**** Wg przedmiotu obrotów
+- rynek produktów i usług
+- rynek pracy
+- rynek finansowy
+
+**** Wg zasięgu geograficznego
+- lokalne
+- regionalne
+- krajowe
+- miedzynarodowe
+- światowe
+
+**** Wg sytuacji rynkowej
+- rynek sprzedawcy :: przewaga zapotrzebowania na produkty
+- rynek nabywcy :: nadwyżka ilości produktow do sprzedaży nad zapotrzebowaniem
+
+**** Wg stopnia jednorodności przedmiotu transakcji
+- rynek homogeniczny :: towary oferowane są bardzo podobne
+- rynek heterogeniczny :: towary oferowane są zróżnicowane
+
+*** Elementy rynku
+
+- popyt
+  + prawo popytu :: wraz ze wzrostem ceny produktu popyt na ten produkt zmnniejsza się, z kolei spadek ceny powoduje wzrost popytu (zakładając stałość innych zmiennych)
+  + nietypowe reakcje popytu na zmianę ceny
+    - popyt sztywny - popyt nie reaguje na zmianę ceny (produkty podstawowe)
+    - paradoks Veblena - wraz ze wzrostem ceny wzrasta popyt (dobra luksusowe)
+    - paradoks owczego pędu - mimo wzrostu cen popyt na dane dobro wzrasta, ponieważ inni je konsumują
+  + determinanty popytu
+    - cena
+    - czynniki niecenowe
+- podaż
+  + prawo podaży :: wraz ze wzrostem ceny produktu jego podaż wzrasta, z kolei spadek ceny powoduje spadek podazy (/ceteris paribus/)
+  + determinanty podaży
+    - cena 
+    - czynniki niecenowe
+- cena
+  + 
+
