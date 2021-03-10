@@ -1,6 +1,32 @@
-#+TITLE: Etyka Wielka
+#+TITLE:Etyka Wielka
 
 
+1) Krytyka poglądów poprzedników na cnotę i dobro najwyższe 
+
+1.1) problemy etyczne a polityka
+
+- człowiek moralnie wartosciowy to człowiek cnotliwy (posiadający cnoty)
+
+- posiadanie cnót jest konieczne do uprawiania polityki
+
+- z tego wynika, że rozważania nad moralnoscia są punktem wyjscia do rozważań nad państwem (polityki) i słusznie nazywa sie je politycznymi (a nie etycznymi)
+
+1.2) czym jest cnota i z czego powstaje 
+
+- Pitagoras
+  + sprowadził cnote do liczb
+- Sokrates
+  + uważał że cnoty są rodzajem wiedzy, a ponieważ wiedza oparta jest na rozumowaniu, cnoty pochodza z myslacj cześci duszy. w ten sposób sokrates usuwa uczycia i charakter z rozważań o cnocie (co arystoteles uważa za niepoprawne)
+
+- Platon 
+  + podzielił dusze na cześć rozumną i nierozumną, przydzielając kazdej z nich odpowiednie cnoty. Wlączył jednakże cnote do rozważań nad dobrem (co arystoteles uważa za niepoprawne)
+
+
+- Arystoteles
+
+  + Kazda umiejętność czy zdolnosć posiada jakis cel (a jest nim dobro, bo nie ma umiejetności zorientowanych na zło)
+  + przez to, celem najleoszej zdolnosci byłoby najwyższe dobro
+??
 
 
 
