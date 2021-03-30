@@ -1,0 +1,68 @@
+#+TITLE:A. ANZENBACHER - WPROWADZENIE DO FILOZOFII
+
+1. Co to jest filozofia?
+1.1 Refleksja wstępna 
+
+- filozofia jako zawartość dzieł, prac i kursów filozoficznych jest jej postacia wyobcowaną, oddzieloną od życia
+
+#+BEGIN_QUOTE
+Wszyscy przez całe życie filozofujemy
+#+END_QUOTE 
+
+Filozofia zaczyna się od pytań nasuwających się w obliczu niepewności, gdy 
+#+BEGIN_QUOTE
+swojski, powszedni świat zaczyna tracić swoja oczywistość i staje się problemem
+#+END_QUOTE 
+
+*Pytania których konieczność zadania jest efektem tych wątpliwości są pierwotnym źródłem filozofii*
+
+Pytania te dotyczą bezpośrednio każdego człowieka i jego życie zależy od udzielonych odpowiedzi. Nie da sie ich ani uniknąć ani ominąć; najwyżej można je zignorować(w sensie: nie traktować tego rodzaju pytań jako pytań filozoficznych; sama konieczność dokonywania wyborów w zyciu wymaga zajęcia jakiegoś stanowiska wobec tego rodzaju watpliwości).
+
+Należy jednakże zwrócić uwagę na fakt, że filozofowanie może się odbywać na wielu poziomach (skale precyzji, otwartości, systematyczności itp). 
+
+Można się więc, w stosunku do tych poziomów, uczyc filozofować. Może sie to jednak stać tylko jeżeli wdamy sie w dialog z wyobcowaną postacią filozofii - w pewnym sensie przywracając ja do życia 
+
+
+1.2 Pochodzenie nazwy
+
+Filozofia oznacza umilowanie mądrości, pośredni stan pomiędzy głupotą a mądroscią, stan ciągłego  poszukiwania wiedzy
+
+
+1.3 Problem początku
+
+#+BEGIN_QUOTE
+punktem wyjscia wzelkiego filozofowania jest doświadczenie 
+#+END_QUOTE
+
+
+- bezzałożeniowość filozofii
+  + filozofia zakłada jedynie świat doświadczalny, udostepniony nam przez język potoczny
+  + filozofia nie może zakładać swojej metody; metoda filozofii jest problemem filozofii (tym różni się od nauk szczegółowych)
+  + 
+
+
+1.4 Rozgraniczenie
+
+1.4.1 Filozofia a nauki szczegółowe
+
+- klasyfikacja nauk szczegółowych
+  + Nauki realne
+    - Nauki przyrodnicze - fizyka, chemia
+    - Nauki kulturowe
+      + Nauki humanistyczne - historia, religioznawstwo, lingwistyka
+      + Nauki społeczno-ekonomiczne - ekonomia, socjologia
+  + Nauki formalne - logika formalna, matematyka
+
+
+
+
+
+
+
+
+
+
+      
+ 
+	
+

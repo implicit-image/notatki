@@ -1,0 +1,31 @@
+
+
+** PKB
+- produkt krajowy brutto
+- miernik wartoi produkcji wytworzonej na tyretorium danego kraju
+
+
+*** metody liczenia PKB
+- metoda dóbr finalnych :: liczenie dóbr nabywanych przez użytkownika
+- metoda dóbr dodanych :: liczenie przyrostu wartości dóbr w wyniku procesu produkcyjnego
+- metoda sumowania wydatków :: sumowanie wydatków na dobra finalne wytworzone przez przedsiębiorstwa w ciągu roku
+  + wydatki konsumpcyjne
+  + wydatki inwestycyjne
+  + wydatki rządowe
+  + eksport
+  + import 
+
+*** metody ujecia PKB
+- Nominalny PKB - mierzony w cenach bierzących, tzn w takich, które istniały w okresie wytwarzania składającej się na PKB produkcję
+- Realny PKB - nominalny PKB skorygowany o inflacje
+
+
+** PNB
+- produkt narodowy brutto
+- PKB + dochody netto z tytułu własnosci za granicą (Dnz) 
+
+** HDI
+- ? developement index
+   
+** HPI
+- happy planet index

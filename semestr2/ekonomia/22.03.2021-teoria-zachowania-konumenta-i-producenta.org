@@ -1,0 +1,29 @@
+* Teoria zachowania konsumenta i producenta
+
+
+** Gospodarstwa domowe
+
+- gopodarstwo domowe :: najmniejsza komórka społeczna, która wspólnie gromadzi dochody i wspólnie je wydaje aby zaspokoić swoje potrzeby konsumpcyjne
+
+- dochody gospodarstwa domowego
+  + z tytułu pracy
+  + z tytułu prowadzenia działalności gospodarczej
+  + dochody z tytułu świadczeń społecznych
+  + z tytułu posiadania kapitału 
+
+- oszcędności - zasoby pieniężne, które nie zostały w danym momencieprzeznaczone na zakup usług i produktów
+
+
+- wydatki
+  + konsumpcyjne
+    - stałe
+    - zmienne
+
+  + inwestycyjne
+    - stałe
+    - zmienne
+
+** Konsument
+
+- Struktura konsumpcji - co konsument kupuje
+

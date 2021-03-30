@@ -1,0 +1,21 @@
+* Logika zdań 
+
+
+** Zdania kategoryczne 
+
+- oznajmujące 
+- proste
+- asertoryczne
+
+
+** Alfabet
+
+- zmienne nazwowe s P
+
+- funktory 
+  + S a P - każde S jest P
+  + S i P - Niektóre S ą P
+  + S e P - żadne S nie są P
+  + S o P - niektóre S nie są P 
+
+

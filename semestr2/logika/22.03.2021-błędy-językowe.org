@@ -1,0 +1,12 @@
+** Błędy znaczeniowe
+
+*** wypowiedzi nieinformujące
+- nonsens językowy
+  + nonsens absolutny :: wyrazy są częścią języka, ale wyrażenia są ułozone bez sensu
+  + nonsens względny :: wyrazy są nieznane(do odiorcy) można taką wypowiedź uczynić zrozumiałą poprzez poznanie poszczególnych słów
+- mowa chaotyczna
+- wypowiedź sprzeczna :: ączna wartość informacyjna jest równa zero
+- wieloznaczność potencjalna :: wieloznaczność dotyczy poszczególnych słów, np zamek
+- wieloznaczność aktualna
+  + wieloznaczna wypowiedź jako określona calość, np wieloznaczne pytanie (wieloznaczność kontekstu)
+  + wieloznaczność wyodr©bniona/w kontekscie/ekwiwokacja

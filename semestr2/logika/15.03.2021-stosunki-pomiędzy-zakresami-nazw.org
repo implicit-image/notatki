@@ -1,0 +1,23 @@
+
+
+
+* Stosunki pomiędzy zakresami nazw
+
+- Uniwersum/Klasa uniwersalna - zbiór wzystkich możliwych desygnatów 
+
+- Stosunek zamienności/równoważności :: Istnieją S które są P  i istnieją P które są S, np ziemniak i kartofel: każdy kartofel to ziemniak, każdy ziemniak to kartofel
+
+- Stosunek podrzędności S względem P :: Istnieją S które są P, istnieją P które są S, np tulipan i kwiat: każdy tulipan jest kwiatem, nie każdy kwiat jest tulipanem
+
+- Stosunek nadrzędności S względem P :: Istnieją P które są S, istnieją S które są P, np las i brzezina: nie każdy las jest brzeziną, każda brzezina jest lasem 
+
+- Stosunek krzyżowania się nazw S i P :: istnieją S które nie są P i istnieją P które nie są S ale istnieją S które są P i istnieją P które są S, np uczeń i leń: niektórzy uczniowie są leniami, niektórzy nie; niektórzy lenie są uczniami, niektórzy nie  (?)
+
+- klasa negatywna :: zaprzeczenie nazwy słowem nie
+
+- stosunek podprzeciwieństwa nazw S i P :: nie istnieją P które są S, wszystko jest albo S albo P
+
+- Stosunek  wykluczania się nazw S i P :: Nie istnieją P które są S
+  + przeciwieństwo :: Nie istnieją P które są S, Uniwersum nie jest wyczerpane
+  + sprzeczność :: Nie isnieją S które są P, wyczerpuje Uniwersum, zachodzi tylko pomiędzy nazwą i jej klasą negatywną 
+    
