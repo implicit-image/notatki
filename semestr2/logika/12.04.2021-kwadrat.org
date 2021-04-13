@@ -1,0 +1,31 @@
+
+*** Zdania
+wszystkie słonie są duże SaP                        żadne słonie nie są duże SeP
+
+
+*** wszystkie narkotyki są nielegalne SaP 1
+- nigdzie narkotyki  nie są nielegalne
+- gdzieniegdzie narkotyki są legalne
+- gdzieniegdzie narkotyki nie są legalne
+-  żadne z powyższych
+
+*** Obwersja
+- obwersja zdania kategorycznego to zdanie powstałe po
+  1. zmianie jakości zdania (z 1 na 0 lub odwrotnie)
+  2. zanegowaniu orzecznika (prefiks "nie")
+
+    SaP SeP'
+    SeP SaP'
+    SiP SoP'
+    SoP SiP'
+
+   
+*** Konwersja
+- konwersja zdania kategorycznego to zdanie powstałe z niego w ten sposób, że termin, który poprednio był orzecznikiem stawiamy w miejscu podmiotu
+
+SaP → PiS - konwersja z ograniczeniem, standardowa konwersja produkuje jawnie fałszywe zdania
+
+
+ 
+*** Kontrapozycja
+- kontrapozycja zdania kategorycznego to zdanie powstające z niego po przestawieniu i zanegowaiu obu jego terminów
