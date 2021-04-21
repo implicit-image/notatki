@@ -1,0 +1,21 @@
+
+
+*** Funkcje pieniądza
+    - miernik wartości - służy do ustalania ceny towarów i umożliwia ich porónywanie
+    - środek wymiany - pośredniczy w wymianie pomiędzy kupującym a sprzedającym
+    - środek płatniczy - za pomocą pieniądza możemy regulować zobowiązania
+    - środek przechowywania wartości - umożliwia oszczędzanie
+
+
+*** Popyt na pieniądz
+    - zapotrzebowanie na pieniądz zgłaszane przez podmioty gospodarzce; zalezy od:
+      + motywy posiadania pieniądza (transakcyjny, przezornosciowy, spekulacyjny)
+      + czynniki ekonomiczne (wysokość dochodów, poziom cen, wysokość stóp procentowych)
+
+
+*** Podaż pieniądza
+    - ilość pieniądza dostępna w gospodarce; regulowana przez Bank Centralny w danym kraju
+
+*** Rodzaje polityki monetarnej
+    - Ekspansywna
+    - Restrykcyjna
